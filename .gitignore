@@ -1,5 +1,6 @@
-=Ebgov_Tools.3
 .roo/
 .vscode/mcp.json
 supabase/index.js
-
+.env
+.env.*
+Ebgov_Tools.md
